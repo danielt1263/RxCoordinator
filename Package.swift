@@ -19,7 +19,8 @@ let package = Package(
             name: "RxCoordinator",
             dependencies: [
 				"RxResource",
-				"RxSwift"
+				"RxSwift",
+				.product(name: "RxCocoa", package: "RxSwift")
 			]
 		),
         .testTarget(
