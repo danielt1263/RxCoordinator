@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "rxresource",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielt1263/RxResource.git",
+      "state" : {
+        "revision" : "4e23a0fa38601f5e3f78377c28dbbd587b7f87da",
+        "version" : "0.3.0"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "b4307ba0b6425c0ba4178e138799946c3da594f8",
+        "version" : "6.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
